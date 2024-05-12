@@ -16,10 +16,10 @@ Each topic within this project includes two distinct presentations:
 
 Below are the links to the folders containing the presentations and evaluations for each topic covered in our project:
 
-- [Link to PDF](./newsfake.pdf)
-- [Link to PDF](./news.pdf)
-- [Link to PDF](./golffake.pdf)
-- [Link to PDF](./golf.pdf)
+- [LLM Newspaper Presentation](./newsfake.pdf)
+- [Human Newspaper Presentation](./news.pdf)
+- [LLM Golf Presentation](./golffake.pdf)
+- [Human Golf Presentation](./golf.pdf)
 
 ## Conclusion
 
